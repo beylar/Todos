@@ -87,7 +87,7 @@ export default function App() {
             className="bg-purple-900 text-white p-2 rounded-lg font-mono ml-10 mt-5"
             onClick={handleClear}
           >
-            <p>Clear</p>
+            <p>Clear List</p>
           </button>
         )}
       </div>
