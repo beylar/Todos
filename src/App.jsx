@@ -38,7 +38,7 @@ export default function App() {
     <>
       <div className="w-[500px] mx-auto my-5 border shadow-2xl h-screen bg-red-950 rounded-xl">
         <p className="font-bold text-6xl text-center font-mono pt-3 text-gray-300">
-          todos
+          todos list
         </p>
         <div className="border w-[460px] h-[35px] shadow-2xl rounded-3xl flex justify-between items-center mx-auto my-10">
           <input
